@@ -1,0 +1,11 @@
+D:\VB61\VB1\bin\Release\VB1.exe
+D:\VB61\VB1\bin\Release\VB1.pdb
+D:\VB61\VB1\bin\Release\VB1.xml
+D:\VB61\VB1\obj\x86\Release\VB1.frmFrist.resources
+D:\VB61\VB1\obj\x86\Release\VB1.frmSecond.resources
+D:\VB61\VB1\obj\x86\Release\VB1.FrmThird.resources
+D:\VB61\VB1\obj\x86\Release\VB1.Resources.resources
+D:\VB61\VB1\obj\x86\Release\VB1.vbproj.GenerateResource.Cache
+D:\VB61\VB1\obj\x86\Release\VB1.exe
+D:\VB61\VB1\obj\x86\Release\VB1.xml
+D:\VB61\VB1\obj\x86\Release\VB1.pdb
